@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1528965554,
+	"version": 1528967800,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,6 +48,8 @@
 		"images/sprite52-sheet0.png",
 		"images/sprite52-sheet1.png",
 		"images/sprite50-sheet0.png",
+		"images/sprite54-sheet0.png",
+		"images/sprite95-sheet0.png",
 		"media/blokada-1-nostal-giya.ogg",
 		"icon-16.png",
 		"icon-32.png",
