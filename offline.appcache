@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1530001704
+#1530009218
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -25,7 +25,6 @@ images/sprite24-sheet0.png
 images/sprite13-sheet0.png
 images/sprite19-sheet0.png
 images/sprite9-sheet0.png
-images/sprite8-sheet0.png
 images/sprite20-sheet0.png
 images/sprite21-sheet0.png
 images/sprite23-sheet0.png
@@ -47,8 +46,6 @@ images/sprite94-sheet1.png
 images/sprite52-sheet0.png
 images/sprite52-sheet1.png
 images/sprite50-sheet0.png
-images/sprite54-sheet0.png
-images/sprite95-sheet0.png
 images/sprite100-sheet0.png
 images/sprite100-sheet1.png
 images/sprite101-sheet0.png
@@ -63,6 +60,10 @@ images/sprite112-sheet0.png
 images/sprite108-sheet0.png
 images/sprite116-sheet0.png
 images/sprite118-sheet0.png
+images/sprite8-sheet0.png
+images/sprite54-sheet0.png
+images/sprite95-sheet0.png
+images/sprite120-sheet0.png
 media/blokada-1-nostal-giya.ogg
 icon-16.png
 icon-32.png
